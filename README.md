@@ -54,7 +54,7 @@ Built on top of [MakrSas/MacIsland](https://github.com/MakrSas/MacIsland).
 ## Install
 
 ```bash
-git clone https://github.com/igorb200828/Native-Mac-Island-TouchUI-Enabler && cd Native-Mac-Island-TouchUI-Enabler-main
+git clone https://github.com/igorb200828/Native-Mac-Island-TouchUI-Enabler && cd Native-Mac-Island-TouchUI-Enabler
 chmod +x setup.sh
 ./setup.sh
 ```
